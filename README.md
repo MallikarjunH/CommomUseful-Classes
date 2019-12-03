@@ -1,8 +1,8 @@
 
 # Date Format
 
-Wednesday, Sep 12, 2018           --> EEEE, MMM d, yyyy
-09/12/2018                        --> MM/dd/yyyy
+Wednesday, Sep 12, 2018           --> EEEE, MMM d, yyyy\n
+09/12/2018                        --> MM/dd/yyyy\n
 09-12-2018 14:11                  --> MM-dd-yyyy HH:mm
 Sep 12, 2:11 PM                   --> MMM d, h:mm a
 September 2018                    --> MMMM yyyy
